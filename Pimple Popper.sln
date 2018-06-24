@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pimple Popper", "Assembly-CSharp.csproj", "{620C7C5D-B9B6-85B0-62B7-C85E0A011B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620C7C5D-B9B6-85B0-62B7-C85E0A011B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620C7C5D-B9B6-85B0-62B7-C85E0A011B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620C7C5D-B9B6-85B0-62B7-C85E0A011B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620C7C5D-B9B6-85B0-62B7-C85E0A011B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
